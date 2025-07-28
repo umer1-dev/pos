@@ -1,0 +1,251 @@
+[
+    {
+        "item_id": 1,
+        "name": "Panda Fries",
+        "item_number": null,
+        "category": "Wholesale Snacks",
+        "category_id": 5,
+        "unit_price": "218.81",
+        "promo_price": null,
+        "weight": 4342,
+        "image_url": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
+        "description": "",
+        "unit_variations": [
+            {
+                "id": "46",
+                "unit_name": "KG",
+                "unit_quantity": "3.7305568460",
+                "unit_price": "816.2831434733",
+                "cost_price": "816.2831434733",
+                "quantity_unit_item_number": null
+            },
+            {
+                "id": "69",
+                "unit_name": "packet",
+                "unit_quantity": "1.8077496284",
+                "unit_price": "395.5536961902",
+                "cost_price": "395.5536961902",
+                "quantity_unit_item_number": null
+            }
+        ]
+    },
+    {
+        "item_id": 2,
+        "name": "Lion Nuggets",
+        "item_number": null,
+        "category": "Retail Food",
+        "category_id": 4,
+        "unit_price": "793.99",
+        "promo_price": null,
+        "weight": 3541,
+        "image_url": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp",
+        "description": "",
+        "unit_variations": [
+            {
+                "id": "61",
+                "unit_name": "KG",
+                "unit_quantity": "4.6194456493",
+                "unit_price": "3667.7936510877",
+                "cost_price": "3667.7936510877",
+                "quantity_unit_item_number": null
+            },
+            {
+                "id": "77",
+                "unit_name": "KG",
+                "unit_quantity": "1.7967786178",
+                "unit_price": "1426.6242547470",
+                "cost_price": "1426.6242547470",
+                "quantity_unit_item_number": null
+            }
+        ]
+    },
+    {
+        "item_id": 3,
+        "name": "Panda Fries",
+        "item_number": null,
+        "category": "Store Account Payment",
+        "category_id": 3,
+        "unit_price": "108.56",
+        "promo_price": null,
+        "weight": 571,
+        "image_url": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp",
+        "description": "",
+        "unit_variations": [
+            {
+                "id": "74",
+                "unit_name": "KG",
+                "unit_quantity": "2.2149315634",
+                "unit_price": "240.4529705227",
+                "cost_price": "240.4529705227",
+                "quantity_unit_item_number": null
+            },
+            {
+                "id": "40",
+                "unit_name": "KG",
+                "unit_quantity": "0.7004844511",
+                "unit_price": "76.0445920114",
+                "cost_price": "76.0445920114",
+                "quantity_unit_item_number": null
+            },
+            {
+                "id": "27",
+                "unit_name": "packet",
+                "unit_quantity": "3.6923215461",
+                "unit_price": "400.8384270446",
+                "cost_price": "400.8384270446",
+                "quantity_unit_item_number": null
+            }
+        ]
+    },
+    {
+        "item_id": 4,
+        "name": "Monkey Chips",
+        "item_number": null,
+        "category": "Retail Food",
+        "category_id": 4,
+        "unit_price": "440.53",
+        "promo_price": null,
+        "weight": 2066,
+        "image_url": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp",
+        "description": "",
+        "unit_variations": []
+    },
+    {
+        "item_id": 5,
+        "name": "Lion Nuggets",
+        "item_number": null,
+        "category": "Store Account Payment",
+        "category_id": 3,
+        "unit_price": "976.63",
+        "promo_price": null,
+        "weight": 3083,
+        "image_url": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp",
+        "description": "",
+        "unit_variations": []
+    },
+    {
+        "item_id": 6,
+        "name": "Smartphone X",
+        "item_number": null,
+        "category": "Wholesale Snacks",
+        "category_id": 5,
+        "unit_price": "218.81",
+        "promo_price": null,
+        "weight": 4342,
+        "image_url": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+        "description": "",
+        "unit_variations": [
+            {
+                "id": "46",
+                "unit_name": "KG",
+                "unit_quantity": "3.7305568460",
+                "unit_price": "816.2831434733",
+                "cost_price": "816.2831434733",
+                "quantity_unit_item_number": null
+            },
+            {
+                "id": "69",
+                "unit_name": "packet",
+                "unit_quantity": "1.8077496284",
+                "unit_price": "395.5536961902",
+                "cost_price": "395.5536961902",
+                "quantity_unit_item_number": null
+            }
+        ]
+    },
+    {
+        "item_id": 2,
+        "name": "Classic T-Shirt",
+        "item_number": null,
+        "category": "Retail Food",
+        "category_id": 4,
+        "unit_price": "793.99",
+        "promo_price": null,
+        "weight": 3541,
+        "image_url": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
+        "description": "",
+        "unit_variations": [
+            {
+                "id": "61",
+                "unit_name": "KG",
+                "unit_quantity": "4.6194456493",
+                "unit_price": "3667.7936510877",
+                "cost_price": "3667.7936510877",
+                "quantity_unit_item_number": null
+            },
+            {
+                "id": "77",
+                "unit_name": "KG",
+                "unit_quantity": "1.7967786178",
+                "unit_price": "1426.6242547470",
+                "cost_price": "1426.6242547470",
+                "quantity_unit_item_number": null
+            }
+        ]
+    },
+    {
+        "item_id": 3,
+        "name": "Wireless Earbuds",
+        "item_number": null,
+        "category": "Store Account Payment",
+        "category_id": 3,
+        "unit_price": "108.56",
+        "promo_price": null,
+        "weight": 571,
+        "image_url": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp",
+        "description": "",
+        "unit_variations": [
+            {
+                "id": "74",
+                "unit_name": "KG",
+                "unit_quantity": "2.2149315634",
+                "unit_price": "240.4529705227",
+                "cost_price": "240.4529705227",
+                "quantity_unit_item_number": null
+            },
+            {
+                "id": "40",
+                "unit_name": "KG",
+                "unit_quantity": "0.7004844511",
+                "unit_price": "76.0445920114",
+                "cost_price": "76.0445920114",
+                "quantity_unit_item_number": null
+            },
+            {
+                "id": "27",
+                "unit_name": "packet",
+                "unit_quantity": "3.6923215461",
+                "unit_price": "400.8384270446",
+                "cost_price": "400.8384270446",
+                "quantity_unit_item_number": null
+            }
+        ]
+    },
+    {
+        "item_id": 4,
+        "name": "Laptop Pro 15",
+        "item_number": null,
+        "category": "Retail Food",
+        "category_id": 4,
+        "unit_price": "440.53",
+        "promo_price": null,
+        "weight": 2066,
+        "image_url": "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp",
+        "description": "",
+        "unit_variations": []
+    },
+    {
+        "item_id": 5,
+        "name": "Running Shoes",
+        "item_number": null,
+        "category": "Store Account Payment",
+        "category_id": 3,
+        "unit_price": "976.63",
+        "promo_price": null,
+        "weight": 3083,
+        "image_url": "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp",
+        "description": "",
+        "unit_variations": []
+    }
+  
+]
